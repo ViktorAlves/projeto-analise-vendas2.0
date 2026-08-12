@@ -76,9 +76,9 @@ Com base nas análises de dados e nos insights obtidos, foi recomendado as segui
 
 <div align="center">
 
-| 👨‍💻 Desenvolvido por **Seu Nome** |
+| 👨‍💻 Desenvolvido por **Victor Alves** |
 | :--- |
 | 🚀 **Analista de Dados** focado em transformar dados em inteligência de negócio. |
-| 📬 **Conecte-se comigo:** <br> [![LinkedIn](ttps://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/ViktorAlves))  |
+| 📬 **Conecte-se comigo:** <br> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-luiz-b39738222/) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/seu-usuario](https://github.com/ViktorAlves))  |
 
 </div>
