@@ -83,7 +83,7 @@ Developer:
   Foco: ["Python", "SQL", "Power BI", "Data Storytelling"]
   Localização: "Brasil"
   
-Contacts:
-  LinkedIn: "[https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)"
-  GitHub: "[https://github.com/seu-usuario](https://github.com/seu-usuario)"
-  Email: "seu-email@gmail.com"
+Contatos/Portifólio:
+  LinkedIn: "[https://www.linkedin.com/in/victor-luiz-b39738222/]"
+  GitHub: "[https://github.com/ViktorAlves]"
+  Email: "victorluizalves77@gmail.com"
