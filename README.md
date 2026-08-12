@@ -49,3 +49,22 @@ Para resolver o enigma, a análise foi dividida em três camadas complementares:
   │   Consultas    │ ──> │ Tratamento & EDA │ ──> │ Dashboard Final  │
   │   SQL (ETL)    │     │ Python (Pandas)  │     │   (Power BI)     │
   └────────────────┘     └──────────────────┘     └──────────────────┘
+
+---
+
+## 📈 3. O Dashboard executivo (Power Bi)
+
+
+
+
+
+## 🚀 4. Recomendações de Negócio (Plano de Ação)
+
+Com base nas análises de dados e nos insights obtidos, foi recomendado as seguintes ações estratégicas para a diretoria:
+
+* [ ] **Política de Teto para Descontos:** Reestruturar as campanhas promocionais definindo um **teto máximo de 15% a 20% de desconto** (especialmente para as subcategorias de móveis como *Tables* e *Bookcases*), eliminando a concessão de descontos agressivos que resultam em prejuízo operacional.
+* [ ] **Plano de Reestruturação da Região Central:** Replicar as melhores práticas operacionais e o controle de margem da região **West** (mais lucrativa) para a região **Central**, revisando a precificação regional e reduzindo a dependência de incentivos comerciais nessa área.
+* [ ] **Aproveitamento da Sazonalidade (Planejamento do Q4):** Antecipar a gestão de estoque e capacidade logística para o **4º Trimestre (Q4)**, garantindo que o pico de vendas de final de ano (Novembro/Dezembro) seja atendido sem gargalos operacionais e sem necessidade de descontos exagerados.
+* [ ] **Programa de Retenção e Fidelidade VIP (RFM):** Criar campanhas de marketing direcionadas e atendimento exclusivo para o grupo de clientes **Champions/VIPs** (top 15% da base), garantindo a retenção dos clientes que geram mais de 40% do faturamento total.
+* [ ] **Ações Estratégicas por Segmento:** Concentrar a força de vendas e estratégias de cross-selling no segmento **Consumer** (maior volume e lucro), enquanto se desenvolvem pacotes corporativos de maior margem para o segmento **Corporate**.
+* [ ] **Otimização do Mix de Produtos:** Expandir o portfólio da categoria de **Technology** (maior margem do negócio) e renegociar custos de fornecedores para subcategorias que operam no limite da rentabilidade.
