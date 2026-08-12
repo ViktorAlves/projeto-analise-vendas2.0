@@ -6,7 +6,7 @@ A **Superstore** enfrentava um dilema clássico do varejo: as vendas totais cont
 
 ## 🎯 Objetivo da Análise & Perguntas de Negócio
 
-O objetivo principal deste projeto é mapear oportunidades de crescimento e estancamento de perdas na **Superstore**. Para guiar a investigação, definimos as seguintes perguntas estratégicas de negócio:
+O objetivo principal deste projeto é mapear oportunidades de crescimento e estancamento de perdas na **Superstore**. Para guiar a investigação, foi definido as seguintes perguntas estratégicas de negócio:
 
 1. **Desempenho Regional:** Qual região vende mais e qual entrega a maior rentabilidade?
 2. **Sazonalidade:** Existe um padrão temporal claro no volume de vendas ao longo do ano?
