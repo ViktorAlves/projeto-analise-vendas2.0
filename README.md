@@ -49,7 +49,10 @@ Para resolver o enigma, a análise foi dividida em três camadas complementares:
   │   Consultas    │ ──> │ Tratamento & EDA │ ──> │ Dashboard Final  │
   │   SQL (ETL)    │     │ Python (Pandas)  │     │   (Power BI)     │
   └────────────────┘     └──────────────────┘     └──────────────────┘
-```text
+
+
+```
+
 ---
 
 ## 📈 3. O Dashboard executivo (Power Bi)
