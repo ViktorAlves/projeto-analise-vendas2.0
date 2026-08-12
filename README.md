@@ -71,3 +71,19 @@ Com base nas análises de dados e nos insights obtidos, foi recomendado as segui
 * [ ] **Programa de Retenção e Fidelidade VIP (RFM):** Criar campanhas de marketing direcionadas e atendimento exclusivo para o grupo de clientes **Champions/VIPs** (top 15% da base), garantindo a retenção dos clientes que geram mais de 40% do faturamento total.
 * [ ] **Ações Estratégicas por Segmento:** Concentrar a força de vendas e estratégias de cross-selling no segmento **Consumer** (maior volume e lucro), enquanto se desenvolvem pacotes corporativos de maior margem para o segmento **Corporate**.
 * [ ] **Otimização do Mix de Produtos:** Expandir o portfólio da categoria de **Technology** (maior margem do negócio) e renegociar custos de fornecedores para subcategorias que operam no limite da rentabilidade.
+
+---
+
+## 👤 Autor
+
+```yaml
+Developer:
+  Name: "Victor Alves"
+  Profissão: "Estudante"
+  Foco: ["Python", "SQL", "Power BI", "Data Storytelling"]
+  Localização: "Brasil"
+  
+Contacts:
+  LinkedIn: "[https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)"
+  GitHub: "[https://github.com/seu-usuario](https://github.com/seu-usuario)"
+  Email: "seu-email@gmail.com"
