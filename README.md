@@ -57,6 +57,7 @@ Para resolver o enigma, a análise foi dividida em três camadas complementares:
 
 ## 📈 3. O Dashboard executivo (Power Bi)
 
+![Uploading image.png…]()
 
 
 
