@@ -45,10 +45,10 @@ O objetivo principal deste projeto é mapear oportunidades de crescimento e esta
 Para resolver o enigma, a análise foi dividida em três camadas complementares:
 
 ```text
-  ┌────────────────┐     ┌──────────────────┐     ┌──────────────────┐
-  │   Consultas    │ ──> │ Tratamento & EDA │ ──> │ Dashboard Final  │
-  │   SQL (ETL)    │     │ Python (Pandas)  │     │   (Power BI)     │
-  └────────────────┘     └──────────────────┘     └──────────────────┘
+┌──────────────────┐     ┌──────────────────┐
+│ Tratamento & EDA │ ──> │ Dashboard Final
+│ Python (Pandas)  │     │   (Power BI)     │
+└──────────────────┘     └──────────────────┘
 
 
 ```
