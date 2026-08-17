@@ -46,7 +46,7 @@ Para resolver o enigma, a análise foi dividida em três camadas complementares:
 
 ```text
 ┌──────────────────┐     ┌──────────────────┐
-│ Tratamento & EDA │ ──> │ Dashboard Final
+│ Tratamento & EDA │ ──> │ Dashboard Final  │
 │ Python (Pandas)  │     │   (Power BI)     │
 └──────────────────┘     └──────────────────┘
 
