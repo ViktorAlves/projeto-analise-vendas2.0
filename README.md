@@ -55,14 +55,8 @@ Para resolver o enigma, a análise foi dividida em três camadas complementares:
 
 ---
 
-## 📈 3. O Dashboard executivo (Power Bi)
 
-![Uploading image.png…]()
-
-
-
-
-## 🚀 4. Recomendações de Negócio (Plano de Ação)
+## 🚀 3. Recomendações de Negócio (Plano de Ação)
 
 Com base nas análises de dados e nos insights obtidos, foi recomendado as seguintes ações estratégicas para a diretoria:
 
